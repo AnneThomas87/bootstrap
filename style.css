@@ -1,0 +1,33 @@
+/* .bg-custom-color {
+    background-color: rgb(207, 187, 75);
+}
+.my-custom-width {
+    width: 3em;
+}
+.my-custom-height {
+    height: 3em;
+} */
+img {
+    border-radius: 6px;
+}
+.note2 img{
+    width: 20px;
+margin-right: 35px;
+}
+.note{
+display: flex;
+justify-content: space-between;
+
+}
+.carousel img{
+    height: 300px;
+
+}
+.carousel{
+    width: 300px;
+}
+.container-fluid1{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
